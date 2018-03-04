@@ -1,3 +1,4 @@
+"use strict";
 function greet(firstName, lastName) {
     console.log("Hello, " + firstName + " " + lastName);
 }
@@ -19,3 +20,4 @@ greet("Shahram", "Hosseinabadi");
 greet1("Shahram");
 greet2("Shahram");
 greet2("Shahram", "Benjamin");
+//# sourceMappingURL=functions.js.map

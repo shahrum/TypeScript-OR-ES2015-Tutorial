@@ -1,3 +1,4 @@
+"use strict";
 var Greeter = /** @class */ (function () {
     function Greeter() {
         this.firstname = "Shahram";
@@ -15,3 +16,4 @@ var Greeter = /** @class */ (function () {
 }());
 var theGreeter = new Greeter();
 theGreeter.sayHello();
+//# sourceMappingURL=arrow.js.map
