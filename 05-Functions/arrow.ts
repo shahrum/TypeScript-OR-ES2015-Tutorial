@@ -2,7 +2,8 @@ class Greeter{
     firstname= "Shahram";
   
     sayHello(){
-        setTimeout(function(){
+        setTimeout(()=>{
+        //setTimeout(function(){
 
             //--because setTimeout the word "this" would no longer point to class object!!!
             //--now it is pointing to wondow objects!!!
